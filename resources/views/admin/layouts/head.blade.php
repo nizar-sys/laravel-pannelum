@@ -4,7 +4,7 @@
     <title> @yield('title') </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="shortcut icon" type="image/png" href="{{asset('img/UnsoedIcon.png')}}">
+    <link rel="shortcut icon" type="image/png" href="{{ asset('img/660f452c646af-Kementerian-ATR-BPN.png') }}">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">

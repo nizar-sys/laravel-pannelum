@@ -11,7 +11,7 @@
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" media="all">
 
     {{-- Icon --}}
-    <link rel="icon" href="{{ asset('img/UnsoedIcon.png') }}">
+    <link rel="icon" href="{{ asset('img/660f452c646af-Kementerian-ATR-BPN.png') }}">
 
     <!-- Fonts -->
     <link href="//fonts.googleapis.com/css?family=Fahkwang:400,500,600,700" rel="stylesheet">
@@ -116,7 +116,7 @@
         <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-body">
-                    <img src="{{ asset('/img/DenahFT.jpg') }}">
+                    <img src="{{ asset('/img/LETAKKKKKKKKK.png') }}">
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Tutup</button>
